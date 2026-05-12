@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dataset files - download from Kaggle
+cs-training.csv
+cs-test.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
